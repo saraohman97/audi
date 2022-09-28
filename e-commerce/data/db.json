@@ -1,0 +1,76 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Audi e-tron GT",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/f83rj7/2022.png?imwidth=291"
+        },
+        {
+            "id": 2,
+            "title": "Audi RS e-tron GT",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/f83rh7/2022.png?imwidth=291"
+        },
+        {
+            "id": 3,
+            "title": "Audi e-tron",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/genaa/2021.png?imwidth=291"
+        },
+        {
+            "id": 4,
+            "title": "Audi e-tron Sportback",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/geaaa/2021.png?imwidth=291"
+        },
+        {
+            "id": 5,
+            "title": "Audi e-tron S",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/gens/2021.png?imwidth=291"
+        },
+        {
+            "id": 6,
+            "title": "Audi e-tron S Sportback",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://mediaservice.audi.com/media/live/50900/fly1400x601n8/geas/2021.png?imwidth=291"
+        },
+        {
+            "id": 7,
+            "title": "Koncept: A6 Avant e-tron Lanseras 2024",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://www.audi.se/dam/nemo/se/Modeller/a6-avant-e-tron-concept/a6-avant-etron-concept-side.png?imwidth=291"
+        },
+        {
+            "id": 8,
+            "title": "Koncept: A6 e-tron Lanseras 2023",
+            "filter": "",
+            "polution": "CO2utsläpp, blandad körning1: 0–0 g/km",
+            "el": "Elförbrukning, blandad körning1: 21,8–19,9 kWh/100 km",
+            "price": "1 224 400",
+            "image": "https://www.audi.se/dam/nemo/se/Modeller/a6-etron-concept/a6-etron-concept-side.png?imwidth=291"
+        }
+    ]
+}
